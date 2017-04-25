@@ -17,7 +17,7 @@
 $(call inherit-product, device/samsung/trltexx/full_trltexx.mk)
 
 # Inherit common Broken phone.
-$(call inherit-product, vendor/broken/configs/common_full_phone.mk)
+$(call inherit-product, vendor/broken/config/common_full_phone.mk)
 
 PRODUCT_DEVICE := trltexx
 PRODUCT_NAME := broken_trltexx
