@@ -1,8 +1,44 @@
 [
   {
-    "remote":"emotroid",
-    "repository": "Emotroid-Rom/android_device_samsung_trlte-common",
+	"remote": "github",
+	"repository": "LightningZap/kernel_samsung_trlte-lz",
+	"target_path": "kernel/samsung/trlte-lz",
+	"branch": "nougat"
+  },
+  {
+	"remote": "github",
+	"repository": "TeamFahQ/vendor_samsung",
+	"target_path": "vendor/samsung",
+	"branch": "nougat"
+  },
+  {
+    "remote":"github",
+    "repository": "TeamFahQ/device_samsung_trlte-common",
     "target_path": "device/samsung/trlte-common",
     "branch": "nougat"
-  }
+  },
+  {
+	"remote": "github",
+	"repository": "TeamFahQ/device_samsung_qcom-common",
+	"target_path": "device/samsung/qcom-common",
+	"branch": "cm-14.1"
+  },
+  {
+	"remote": "github",
+	"repository": "TeamFahQ/hardware_samsung",
+	"target_path": "hardware/samsung",
+	"branch": "cm-14.1"
+  },
+  {
+    "remote": "github",
+    "repository": "Cyanogenmod/android_external_stlport",
+    "target_path": "external/stlport",
+    "branch": "cm-14.1"
+  },
+  {
+    "remote": "github",
+    "repository": "Cyanogenmod/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "cm-14.1"
+}
 ]
