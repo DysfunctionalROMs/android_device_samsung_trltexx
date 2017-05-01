@@ -7,25 +7,25 @@
   },
   {
 	"remote": "github",
-	"repository": "TeamFahQ/vendor_samsung",
+	"repository": "trltexx/vendor_samsung",
 	"target_path": "vendor/samsung",
 	"branch": "nougat"
   },
   {
     "remote":"github",
-    "repository": "TeamFahQ/device_samsung_trlte-common",
+    "repository": "trltexx/device_samsung_trlte-common",
     "target_path": "device/samsung/trlte-common",
     "branch": "nougat"
   },
   {
 	"remote": "github",
-	"repository": "TeamFahQ/device_samsung_qcom-common",
+	"repository": "trltexx/device_samsung_qcom-common",
 	"target_path": "device/samsung/qcom-common",
 	"branch": "cm-14.1"
   },
   {
 	"remote": "github",
-	"repository": "TeamFahQ/hardware_samsung",
+	"repository": "trltexx/hardware_samsung",
 	"target_path": "hardware/samsung",
 	"branch": "cm-14.1"
   },
